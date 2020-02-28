@@ -10,17 +10,12 @@ Language Used: Python
 
 Libraries Used:
 
-h5py: For storing the image data.
-
-simplejson: For processing the input json file.
-
-keras: For preprocessing of image data and applying deep learning methodologies.
-
-PIL (Python Image Library): For processing Images in Python.
-
-sklearn: For splitting data set, applying grid search and Stratified-K fold.
-
-Numpy & Pandas for processing data.
+  1. h5py: For storing the image data.
+  2. simplejson: For processing the input json file.
+  3. keras: For preprocessing of image data and applying deep learning methodologies.
+  4. PIL (Python Image Library): For processing Images in Python.
+  5. sklearn: For splitting data set, applying grid search and Stratified-K fold.
+  6.Numpy & Pandas for processing data.
 
 Evaluation: To evaluate the models and understand the results, Loss and Score metrics were used.
 
