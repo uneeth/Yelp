@@ -1,3 +1,4 @@
+# YELP
 Multi-class classification is a popular research problem that has many real-world applications. This project focuses on Multi-class image classification on real time images given by Yelp Corporation.
 
 Developed a Convoluted Neural Network model on 206949 images to classify indoor, outdoor, food, drink and menu images.
